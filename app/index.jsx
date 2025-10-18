@@ -28,10 +28,7 @@ export default function Welcome() {
         {/* App Name */}
         <Text style={styles.appName}>SkillSwap</Text>
 
-        {/* Tagline */}
-        <Text style={styles.tagline}>
-          From Beginner to Pro — Skill Up with SkillSwap.
-        </Text>
+
 
         {/* Login Button */}
         <TouchableOpacity
